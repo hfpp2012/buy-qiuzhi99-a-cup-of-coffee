@@ -7,7 +7,7 @@
     "AlpacaBiCoffee": "./dist/index.js"
   },
   "scripts": {
-    "build": "webpack --progress",
+    "build": "webpack-cli --progress",
     "test": "node src/index.js",
     "testpub": "node dist/index.js",
     "pub": "npm version patch & npm publish"
