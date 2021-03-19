@@ -1,6 +1,6 @@
 {
   "name": "buy-qiuzhi99-a-cup-of-coffee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/index.js",
   "bin": {
