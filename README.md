@@ -1,6 +1,8 @@
-# Buy Alpaca Bi A Cup of Coffee
+# Buy Qiuzhi99 A Cup of Coffee
 
 ### How to use
+
 ```
-npx buy-alpaca-bi-a-cup-of-coffee
+npx buy-qiuzhi99-a-cup-of-coffee
 ```
+
